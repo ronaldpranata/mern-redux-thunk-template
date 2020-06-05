@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 - In here, enable auto fix on save.
 Once thats done, close the ESLint tab that is open, and press Command-Shift-P on Mac, or Ctrl-Shift-P on windows, and type ‘Git Clone’ into the box that appears and hit enter.
 - In the box that then comes up, enter:
-<https://github.com/ronaldpranata/mern-redux-trunk-template>
+<https://github.com/ronaldpranata/mern-redux-thunk-template.git>
 - Then press enter, then once that is done, click open in the bottom right.
 
 
